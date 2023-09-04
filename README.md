@@ -1,1 +1,1 @@
-# vscode-basics
+# Tutorial
